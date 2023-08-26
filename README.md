@@ -3,6 +3,8 @@ Full pipeline from raw nanopore sequence data through to reciprocal blasting of 
 
 Made to de novo assemble raw nanopore reads with Flye from Dictystoelium discoideum strains, polish with 4x Racon and 1x Medaka and extract tgr genes via BLAST. Checks if the extracted genes are reciprocal best hits with the reference genes.
 
+*Note: this still uses hardcoded filepaths and needs to be cleaned up and finalised.
+
 ## General Outline
 
 <img width="492" alt="Screen Shot 2023-08-26 at 4 06 23 PM" src="https://github.com/tehchoobworl/ReciprocalBlastFullPipeline/assets/116311825/3a554d91-9930-4eff-ba4d-ca2a7a9d990c">
