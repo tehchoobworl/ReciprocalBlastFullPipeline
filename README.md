@@ -7,8 +7,7 @@ Made to de novo assemble raw nanopore reads with Flye from Dictystoelium discoid
 
 ## General Outline
 
-<img width="492" alt="Screen Shot 2023-08-26 at 4 06 23 PM" src="https://github.com/tehchoobworl/ReciprocalBlastFullPipeline/assets/116311825/3a554d91-9930-4eff-ba4d-ca2a7a9d990c">
-
+![image](https://github.com/tehchoobworl/ReciprocalBlastFullPipeline/assets/116311825/850f0bf1-5b54-43be-9a1e-3e101d2b10d8)
 
 ## Bash files
 
