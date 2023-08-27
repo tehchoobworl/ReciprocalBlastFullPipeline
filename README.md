@@ -47,7 +47,7 @@ mkdir "polished"
 #Loop through all files in input
 for strain in $raw_data_directory*
 do
-	#Exctract just the title of directory, ie home/sean/data/EO167 becomes EO167
+	#Extract just the title of directory, ie home/sean/data/EO167 becomes EO167
 	strain_name=$(basename -- "$strain")
 	strain_name="${strain_name%.*}"
 	echo $strain_name
